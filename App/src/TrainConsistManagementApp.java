@@ -1,7 +1,6 @@
-public class TrainConsistManagementApp {
 import java.util.*;
 
-    public class UC1Train{
+    public class UC1 {
         public static void main(String[] args){
 
             System.out.println("=========================================================");
@@ -16,4 +15,4 @@ import java.util.*;
             System.out.println("Train initialized successfully...");
         }
     }
-}
+
