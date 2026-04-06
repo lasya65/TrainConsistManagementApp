@@ -10,7 +10,7 @@ public class UC1 {
 
             List<String> trainConsist = new ArrayList<>();
 
-            System.out.println("Initial Bogie Count : "+trainConsist.size());
+            System.out.println("Initial Bogie Count : "+trainConsist.sioze());
             System.out.println("Current Train Consist : "+trainConsist);
 
             System.out.println("Train initialized successfully...");
